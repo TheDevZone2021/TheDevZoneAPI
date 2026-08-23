@@ -5,5 +5,5 @@
   "docssystem": "1.0.1",
   "ticketbot": "1.1.0",
   "guardian": "3.2.0",
-  "guardian-store": "1.0.0"
+  "GuardianStore": "1.0.0"
 }
